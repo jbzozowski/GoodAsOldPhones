@@ -13,6 +13,7 @@
 		0C59BC6B1FBFE26900C22D37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C59BC691FBFE26900C22D37 /* LaunchScreen.storyboard */; };
 		0C59BC731FBFE8A100C22D37 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C59BC721FBFE8A100C22D37 /* ProductViewController.swift */; };
 		0C59BC751FBFF3CD00C22D37 /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C59BC741FBFF3CD00C22D37 /* ContactViewController.swift */; };
+		0C59BC771FC618DA00C22D37 /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C59BC761FC618DA00C22D37 /* ProductsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0C59BC6C1FBFE26900C22D37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C59BC721FBFE8A100C22D37 /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		0C59BC741FBFF3CD00C22D37 /* ContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		0C59BC761FC618DA00C22D37 /* ProductsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0C59BC6C1FBFE26900C22D37 /* Info.plist */,
 				0C59BC721FBFE8A100C22D37 /* ProductViewController.swift */,
 				0C59BC741FBFF3CD00C22D37 /* ContactViewController.swift */,
+				0C59BC761FC618DA00C22D37 /* ProductsTableViewController.swift */,
 			);
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C59BC731FBFE8A100C22D37 /* ProductViewController.swift in Sources */,
+				0C59BC771FC618DA00C22D37 /* ProductsTableViewController.swift in Sources */,
 				0C59BC611FBFE26900C22D37 /* AppDelegate.swift in Sources */,
 				0C59BC751FBFF3CD00C22D37 /* ContactViewController.swift in Sources */,
 			);
